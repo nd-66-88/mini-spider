@@ -13,9 +13,6 @@ main program. It reads from console input and passes parameters to threads
 spiderx.py: 
 inherits from threading.thread. It is mainly used for web crawls and saving webpages which match the given pattern
 
-tests.py: 
-unit test
-
 read_configs.py: 
 read configuration from spider.conf
 
